@@ -47,7 +47,7 @@ p {
 }
 
 #jobPhoto {
-    align-self: auto;
+    align-self: right;
 }
 
 #corbinsInfo article {
@@ -96,7 +96,7 @@ p {
   padding: 10px;
 }
 
-#personalityHeader {
+#personalityTests personalityHeader {
   border: 5px solid #353535;
   background-color: #555B6E;
   margin: 5px inherit;
