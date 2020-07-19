@@ -45,6 +45,11 @@ p {
 #myPhoto {
     align-self: auto;
 }
+
+#jobPhoto {
+    align-self: auto;
+}
+
 #corbinsInfo article {
     max-width: 950px;
     padding: 10px 100px 10px 100px;
@@ -84,6 +89,7 @@ p {
 #personalityHeader {
   border: 5px solid #353535;
   background-color: #555B6E;
+  margin: 5px inherit;
 }
 
 h2 {
